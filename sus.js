@@ -1,6 +1,38 @@
 
 // I LOVE JAVA
 function myFunction() {
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://cadenthelearner.github.io/inconspicuous/", '_blank');
+    window.open("https://www.youtube.com/@cadenthepro", '_blank');
+
         alert("BOO!");
      alert("BOO!");
      alert("BOO!");
@@ -20,6 +52,11 @@ function myFunction() {
      alert("BOO!");
      alert("BOO!");
      alert("BOO!");
+     window.open("https://www.youtube.com/watch?v=Z-LdvL-UGd0", '_blank');
+     window.open("https://www.youtube.com/watch?v=Z-LdvL-UGd0", '_blank');
+     window.open("https://www.youtube.com/watch?v=Z-LdvL-UGd0", '_blank');
+     window.open("https://www.youtube.com/watch?v=Z-LdvL-UGd0", '_blank');
+
      alert("BOO!");
      alert("BOO!");alert("BOO!");
      alert("BOO!");
@@ -41,8 +78,19 @@ function myFunction() {
      alert("BOO!");alert("BOO!");
      alert("BOO!");
      alert("BOO!");
+     window.open("https://www.youtube.com/watch?v=Z-LdvL-UGd0", '_blank');
+     window.open("https://www.youtube.com/watch?v=Z-LdvL-UGd0", '_blank');
+     window.open("https://www.youtube.com/watch?v=Z-LdvL-UGd0", '_blank');
+     window.open("https://www.youtube.com/watch?v=Z-LdvL-UGd0", '_blank');
+
      alert("BOO!");
      alert("BOO!");
+     alert("BOO!");alert("BOO!");
+     alert("BOO!");
+     alert("BOO!");
+     alert("BOO!");
+     alert("BOO!");   
+      window.open("https://www.youtube.com/@cadenthepro", '_blank');
      alert("BOO!");alert("BOO!");
      alert("BOO!");
      alert("BOO!");
@@ -50,11 +98,12 @@ function myFunction() {
      alert("BOO!");
      alert("BOO!");alert("BOO!");
      alert("BOO!");
-     alert("BOO!");
-     alert("BOO!");
-     alert("BOO!");
-     alert("BOO!");alert("BOO!");
-     alert("BOO!");
+     window.open("https://www.youtube.com/@cadenthepro", '_blank');
+     window.open("https://www.youtube.com/@cadenthepro", '_blank');
+     window.open("https://www.youtube.com/@cadenthepro", '_blank');
+     window.open("https://www.youtube.com/watch?v=Z-LdvL-UGd0", '_blank');
+     window.open("https://www.youtube.com/@cadenthepro", '_blank');
+
      alert("BOO!");
      alert("BOO!");
      alert("BOO!");
